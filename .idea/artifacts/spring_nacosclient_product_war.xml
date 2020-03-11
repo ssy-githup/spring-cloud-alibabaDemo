@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-nacosclient-product:war">
+    <output-path>$PROJECT_DIR$/spring-nacosclient-product/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>spring-nacosclient-product</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="spring-nacosclient-product-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring-nacosclient-product:war exploded" />
+    </root>
+  </artifact>
+</component>

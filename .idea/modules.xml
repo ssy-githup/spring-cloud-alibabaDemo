@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-alibaba-config/spring-alibaba-config.iml" filepath="$PROJECT_DIR$/spring-alibaba-config/spring-alibaba-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-alibaba-dao/spring-alibaba-dao.iml" filepath="$PROJECT_DIR$/spring-alibaba-dao/spring-alibaba-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-alibaba-parent.iml" filepath="$PROJECT_DIR$/spring-alibaba-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-nacosclient-product/spring-nacosclient-product.iml" filepath="$PROJECT_DIR$/spring-nacosclient-product/spring-nacosclient-product.iml" />
+    </modules>
+  </component>
+</project>

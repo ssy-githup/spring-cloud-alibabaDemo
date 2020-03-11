@@ -1,0 +1,11 @@
+D:\WorkSpace\MyAlibaba\spring-cloud-alibaba\spring-alibaba-dao\src\main\java\com\ssy\mapper\ProductInfoMapper.java
+D:\WorkSpace\MyAlibaba\spring-cloud-alibaba\spring-alibaba-dao\src\main\java\com\ssy\entity\ProductInfo.java
+D:\WorkSpace\MyAlibaba\spring-cloud-alibaba\spring-alibaba-dao\src\main\java\com\ssy\mapper\OrderInfoMapper.java
+D:\WorkSpace\MyAlibaba\spring-cloud-alibaba\spring-alibaba-dao\src\main\java\com\ssy\mapper\PayInfoMapper.java
+D:\WorkSpace\MyAlibaba\spring-cloud-alibaba\spring-alibaba-dao\src\main\java\com\ssy\entity\OrderInfo.java
+D:\WorkSpace\MyAlibaba\spring-cloud-alibaba\spring-alibaba-dao\src\main\java\com\ssy\support\DruidDataSourceProperties.java
+D:\WorkSpace\MyAlibaba\spring-cloud-alibaba\spring-alibaba-dao\src\main\java\com\ssy\druidconfig\copy\SpringDruidConfig.java
+D:\WorkSpace\MyAlibaba\spring-cloud-alibaba\spring-alibaba-dao\src\main\java\com\ssy\entity\PayInfo.java
+D:\WorkSpace\MyAlibaba\spring-cloud-alibaba\spring-alibaba-dao\src\main\java\com\ssy\vo\OrderAndPayVo.java
+D:\WorkSpace\MyAlibaba\spring-cloud-alibaba\spring-alibaba-dao\src\main\java\com\ssy\vo\OrderVo.java
+D:\WorkSpace\MyAlibaba\spring-cloud-alibaba\spring-alibaba-dao\src\main\java\com\ssy\App.java
